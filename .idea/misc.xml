@@ -3,10 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Roja/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_custom_list_view.xml" value="0.1671875" />
+        <entry key="..\:/Users/Roja/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_grid_view.xml" value="0.22" />
+        <entry key="..\:/Users/Roja/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_gridwith_imageand_text.xml" value="0.1671875" />
+        <entry key="..\:/Users/Roja/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_implicit_intent.xml" value="0.1671875" />
         <entry key="..\:/Users/Roja/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_login_page.xml" value="0.25" />
         <entry key="..\:/Users/Roja/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Roja/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Users/Roja/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_rating.xml" value="0.19635416666666666" />
         <entry key="..\:/Users/Roja/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_registration.xml" value="0.22" />
-        <entry key="..\:/Users/Roja/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_splash.xml" value="0.18" />
+        <entry key="..\:/Users/Roja/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/Roja/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_web_view.xml" value="0.1671875" />
+        <entry key="..\:/Users/Roja/AndroidStudioProjects/MyApp/app/src/main/res/layout/secondlayout.xml" value="0.1671875" />
+        <entry key="..\:/Users/Roja/AndroidStudioProjects/MyApp/app/src/main/res/layout/secondlayout1.xml" value="0.1" />
       </map>
     </option>
   </component>

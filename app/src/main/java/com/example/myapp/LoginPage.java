@@ -67,12 +67,12 @@ labeltext=(TextView)findViewById(R.id.labeltext) ;
         startActivity(i);
     }
 
-    public void click_to_login(View view) {
-    Intent i=new Intent(getApplicationContext(),Registration.class);
-    startActivity(i);
+    public void click_to_register(View view) {
 
+        Intent i = new Intent(getApplicationContext(), Registration.class);
+        startActivity(i);
     }
-}
+    }
 
 
 //        }

@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.provider.ContactsContract;
 //import android.os.Handler;
 
 public class MainActivity extends AppCompatActivity {
@@ -29,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
               } catch (InterruptedException e) {
                   e.printStackTrace();
               }
-              Intent i=new Intent(getApplicationContext(),LoginPage.class);
+              Intent i=new Intent(getApplicationContext(), ImplicitIntent.class);
               startActivity(i);
               finish();
           }
